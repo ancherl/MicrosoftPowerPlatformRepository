@@ -19,3 +19,10 @@ Screen1 As screen:
         Y: =22
         ZIndex: =3
 
+    Image1 As image:
+        Height: =275
+        Width: =225
+        X: =32
+        Y: =167
+        ZIndex: =4
+

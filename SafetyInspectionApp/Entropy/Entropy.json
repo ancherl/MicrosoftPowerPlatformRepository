@@ -3,12 +3,13 @@
   "ControlUniqueIds": {
     "App": 1,
     "Button1": 5,
+    "Image1": 7,
     "Label1": 4,
     "PenInput1": 6,
     "Screen1": 3
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "02/09/2022 08:53:23",
+  "HeaderLastSavedDateTimeUTC": "02/09/2022 08:54:24",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
@@ -19,17 +20,21 @@
   "OrderTemplate": {},
   "OrderXMLTemplate": {
     "button": 1,
+    "image": 3,
     "inkControl": 2,
     "label": 0
   },
   "PublishOrderIndices": {
     "App": 0,
     "Button1": 0,
+    "Image1": 0,
     "Label1": 0,
     "PenInput1": 0,
     "Screen1": 0
   },
-  "ResourcesJsonIndices": {},
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
   "TemplateVersions": {},
   "VolatileProperties": {
     "AnalysisLoadTime": 0.0581957,
