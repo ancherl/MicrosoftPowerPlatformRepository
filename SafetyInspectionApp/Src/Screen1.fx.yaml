@@ -12,3 +12,10 @@ Screen1 As screen:
         Y: =88
         ZIndex: =2
 
+    PenInput1 As inkControl:
+        Height: =632
+        Width: =983
+        X: =356
+        Y: =22
+        ZIndex: =3
+
