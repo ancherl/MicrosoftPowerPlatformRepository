@@ -1,2 +1,8 @@
 Screen1 As screen:
 
+    Label1 As label:
+        Text: ="Testing App"
+        X: =16
+        Y: =8
+        ZIndex: =1
+
