@@ -1,0 +1,28 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Text: ="Testing App"
+        X: =16
+        Y: =8
+        ZIndex: =1
+
+    Button1 As button:
+        Text: ="Button"
+        X: =32
+        Y: =88
+        ZIndex: =2
+
+    PenInput1 As inkControl:
+        Height: =632
+        Width: =983
+        X: =356
+        Y: =22
+        ZIndex: =3
+
+    Image1 As image:
+        Height: =275
+        Width: =225
+        X: =32
+        Y: =167
+        ZIndex: =4
+
